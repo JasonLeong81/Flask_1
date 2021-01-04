@@ -17,3 +17,5 @@ def create_app():
 
     return app
 
+# set FLASK_APP=flask_project
+# flask run 
